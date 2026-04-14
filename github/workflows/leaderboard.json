@@ -2,14 +2,14 @@
   "users": [
     {
       "device_id": "8fb7b160378f3430",
-      "username": "GZBSJNA",
-      "level": 1,
-      "days": 8,
+      "username": "مجهول",
+      "level": 0,
+      "days": 0,
       "hours": 0,
-      "country": "MA",
-      "avatar_id": "war",
+      "country": "",
+      "avatar_id": "default_ic",
       "is_premium": "off"
     }
   ],
-  "last_update": "2026-04-09 12:18:27"
+  "last_update": "2026-04-14 17:19:38"
 }
